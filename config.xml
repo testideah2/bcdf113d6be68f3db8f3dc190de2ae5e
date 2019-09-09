@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ftstadgrupp.se.freshtrend.app"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
 <name>ТЕСТ. FreshTrend</name>
 
@@ -38,12 +38,12 @@
 
 
 <platform name="android">
-    <icon src="res/android/icon/b1429389f8cf2fec13fc0c440e6891d6.png" density="ldpi" />
-    <icon src="res/android/icon/b9195dd68d005a8e8e563b9ed029c9f7.png" density="mdpi" />
-    <icon src="res/android/icon/6ed046eaea0d0e4f268f3b54923e20e1.png" density="hdpi" />
-    <icon src="res/android/icon/4bdc7cceae7d6ff99e69b927c6e97579.png" density="xhdpi" />
-    <icon src="res/android/icon/51d24a0565f78ad32bc8c60bfa77d7cd.png" density="xxhdpi" />
-    <icon src="res/android/icon/f7ade02e084e3ffbaca22643ba4e9b77.png" density="xxxhdpi" />
+    <icon src="res/android/icon/c042191c53055a314fff81939cf50d49.png" density="ldpi" />
+    <icon src="res/android/icon/e57787e0cd2d516b55bd7c471442b9dc.png" density="mdpi" />
+    <icon src="res/android/icon/c493e72d2f65374d9b98d8c72897c734.png" density="hdpi" />
+    <icon src="res/android/icon/3a4b7f13c330c8edb52e3a117c664100.png" density="xhdpi" />
+    <icon src="res/android/icon/0f11fd1c77cf8e89c7bfb52d26d87832.png" density="xxhdpi" />
+    <icon src="res/android/icon/a6fdd879b67eb3014aeb3c51999a37f6.png" density="xxxhdpi" />
 
     <splash src="res/android/screen/ee00e33a243d05c1f06b754c962586f2.png" density="port-hdpi"/>
     <splash src="res/android/screen/be4054586cbe01d4a2d2ec98a66587eb.png" density="port-ldpi"/>
